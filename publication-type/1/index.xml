@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Lingzhi Zhao</title>
+    <link>https://chutoutian.github.io/publication-type/1.html</link>
+      <atom:link href="https://chutoutian.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Lingzhi Zhao.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chutoutian.github.io/media/icon_hu109d5cd0bf4844c59f489999f48c2219_5838_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://chutoutian.github.io/publication-type/1.html</link>
+    </image>
+    
+    <item>
+      <title>Optimal Streaming of 360 VR Videos with Perfect, Imperfect and Unknown FoV Viewing Probabilities</title>
+      <link>https://chutoutian.github.io/publication/globecom2020.html</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chutoutian.github.io/publication/globecom2020.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

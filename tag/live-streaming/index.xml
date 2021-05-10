@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live Streaming | Lingzhi Zhao</title>
+    <link>https://chutoutian.github.io/tag/live-streaming.html</link>
+      <atom:link href="https://chutoutian.github.io/tag/live-streaming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Live Streaming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Lingzhi Zhao.</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chutoutian.github.io/media/icon_hu109d5cd0bf4844c59f489999f48c2219_5838_512x512_fill_lanczos_center_2.png</url>
+      <title>Live Streaming</title>
+      <link>https://chutoutian.github.io/tag/live-streaming.html</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Network Information Exposure for Live Streaming in Vehicle Networks</title>
+      <link>https://chutoutian.github.io/project/example.html</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://chutoutian.github.io/project/example.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
