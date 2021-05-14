@@ -5,12 +5,20 @@
     <link>https://chutoutian.github.io/publication-type/2.html</link>
       <atom:link href="https://chutoutian.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Lingzhi Zhao.</copyright><lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chutoutian.github.io/media/icon_hu109d5cd0bf4844c59f489999f48c2219_5838_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://chutoutian.github.io/publication-type/2.html</link>
     </image>
+    
+    <item>
+      <title>Adaptive Streaming of 360 Videos with Perfect, Imperfect, and Unknown FoV Viewing Probabilities in Wireless Networks</title>
+      <link>https://chutoutian.github.io/publication/tip2021.html</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chutoutian.github.io/publication/tip2021.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal Adaptive Streaming of A Scalable Multi-view Video via Rate Splitting and SIC</title>
